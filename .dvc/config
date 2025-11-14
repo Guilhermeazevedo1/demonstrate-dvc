@@ -1,0 +1,4 @@
+[core]
+    remote = local_remote
+['remote "local_remote"']
+    url = C:\Users\gleao\OneDrive - Deloitte (O365D)\Documentos\storage dvc remote
